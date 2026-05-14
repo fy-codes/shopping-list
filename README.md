@@ -20,3 +20,6 @@ A simple shopping list application built with JavaScript.
 
 Practice DOM manipulation and JavaScript fundamentals.
 
+## Active Issues
+
+- Add dark mode support
