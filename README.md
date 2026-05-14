@@ -2,12 +2,13 @@
 
 A simple shopping list application built with JavaScript.
 
-## Features
+## Upcoming Features
 
 - Add item 
 - Delete item
 - Filter items
 - LocalStorage support
+- Search system
 
 ## Technologies
 
